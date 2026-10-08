@@ -1,0 +1,789 @@
+{"device_id": "b2", "ts": 1791135000, "temperature": 22.9, "humidity": 50, "status": "ok"}
+{"device_id": "A2", "ts": 1790949600, "temperature": "28.8", "humidity": 41, "status": "OK"}
+{"device_id": "A2", "ts": 1790991000, "temperature": 30.5, "humidity": 55, "status": "warn"}
+{"device_id": "B1", "ts": 1790910000, "temperature": 23.4, "humidity": 58, "status": "ok"}
+{"device_id": "A1", "ts": 1791050400, "temperature": 19.9, "humidity": 64, "status": " OK "}
+{"device_id": "A1", "ts": 1790875800, "temperature": "19.1", "humidity": 32, "status": "OK"}
+{"device_id": "A2", "ts": 1790854200, "temperature": 31.5, "humidity": 58, "status": " WARN "}
+{"device_id": "A1", "ts": 1791095400, "temperature": 25.4, "humidity": 31, "status": "OK"}
+{"device_id": "B2", "ts": 1791142200, "temperature": 22.3, "humidity": 65, "status": "OK"}
+{"device_id": "B2", "ts": 1790834400, "temperature": 29.1, "humidity": 38, "status": "ok"}
+{"device_id": "A2", "ts": 1790985600, "temperature": 30.4, "humidity": 31, "status": "Warn"}
+{"device_id": "b1", "ts": 1791154800, "temperature": 20.0, "humidity": 35, "status": "Ok"}
+{"device_id": "A2", "ts": 1790879400, "temperature": 28.3, "humidity": 48, "status": "OK"}
+{"device_id": "A2", "ts": 1791109800, "temperature": 30.0, "humidity": 49, "status": "Warn"}
+{"device_id": "A1", "ts": 1791118800, "temperature": 20.6, "humidity": 53, "status": "OK"}
+{"device_id": "B2", "ts": 1790929800, "temperature": 29.7, "humidity": 56, "status": "Ok"}
+{"device_id": "Z9", "ts": 1790818200, "temperature": 25.5, "humidity": 35, "status": " OK "}
+{"device_id": "A2", "ts": 1791147600, "temperature": 27.1, "humidity": 38, "status": "ok"}
+{"device_id": "A2", "ts": 1790994600, "temperature": 30.6, "humidity": 53, "status": "WARN"}
+{"device_id": "B2", "ts": 1791072000, "temperature": 26.6, "humidity": 51, "status": "Ok"}
+{"device_id": "A1", "ts": 1790829000, "temperature": 24.7, "humidity": 47, "status": "OK"}
+{"device_id": "a2", "ts": 1791077400, "temperature": 30.0, "humidity": 32, "status": "Warn"}
+{"device_id": "b2", "ts": 1791075600, "temperature": 25.4, "humidity": 37, "status": " OK "}
+{"device_id": "A1", "ts": 1791059400, "temperature": 20.7, "humidity": 31, "status": " OK "}
+{"device_id": "B2", "ts": 1791027000, "temperature": 26.0, "humidity": 35, "status": "OK"}
+{"device_id": "A1", "ts": 1791099000, "temperature": 25.8, "humidity": 52, "status": " OK "}
+{"device_id": "A2", "ts": 1790928000, "temperature": 31.2, "humidity": 64, "status": " WARN "}
+{"device_id": "A2", "ts": 1790888400, "temperature": 26.3, "humidity": 69, "status": "Ok"}
+{"device_id": "B2", "ts": 1791048600, "temperature": 21.4, "humidity": 55, "status": "ok"}
+{"device_id": "A2", "ts": 1790940600, "temperature": "30.2", "humidity": 36, "status": "warn"}
+{"device_id": "B2", "ts": 1790825400, "temperature": 28.3, "humidity": 65, "status": "Ok"}
+{"device_id": "A1", "ts": 1790985600, "temperature": 21.0, "humidity": 58, "status": "ok"}
+{"device_id": "A2", "ts": 1791028800, "temperature": 27.8, "humidity": 65, "status": " OK "}
+{"device_id": "A1", "ts": 1791034200, "temperature": 21.6, "humidity": 66, "status": "ok"}
+{"device_id": "A2", "ts": 1790910000, "temperature": 32.2, "humidity": 43, "status": "warn"}
+{"device_id": "A2", "ts": 1790893800, "temperature": 27.8, "humidity": 64, "status": "OK"}
+{"device_id": "B2", "ts": 1791118800, "temperature": 25.0, "humidity": 33, "status": " OK "}
+{"device_id": "B1", "ts": 1790983800, "temperature": 17.2, "humidity": 34, "status": " OK "}
+{"device_id": "A2", "ts": 1791156600, "temperature": 30.8, "humidity": 38, "status": "Warn"}
+{"device_id": "B2", "ts": 1791012600, "temperature": 28.5, "humidity": 68, "status": "ok"}
+{"device_id": "A2", "ts": 1790859600, "temperature": 31.1, "humidity": 34, "status": "warn"}
+{"device_id": "B2", "ts": 1790996400, "temperature": 30.3, "humidity": 47, "status": "warn"}
+{"device_id": "B1", "ts": 1791122400, "temperature": 17.7, "humidity": 59, "status": " OK "}
+{"device_id": "A2", "ts": 1790818200, "temperature": 30.7, "humidity": 61, "status": "Warn"}
+{"device_id": "A1", "ts": 1790953200, "temperature": 20.2, "humidity": 63, "status": "Ok"}
+{"device_id": "B1", "ts": 1791009000, "temperature": 999.9, "humidity": 42, "status": "Ok"}
+{"device_id": "A1", "ts": 1791144000, "temperature": 21.5, "humidity": 56, "status": "ok"}
+{"device_id": "B1", "ts": 1791077400, "temperature": 20.4, "humidity": 62, "status": " OK "}
+{"device_id": "B2", "ts": 1790814600, "temperature": 26.7, "humidity": 32, "status": " OK "}
+{"device_id": "A1", "ts": 1790897400, "temperature": 22.4, "humidity": 56, "status": "ok"}
+{"device_id": "A2", "ts": 1790812800, "temperature": 31.4, "humidity": 55, "status": "WARN"}
+{"device_id": "B1", "ts": 1791117000, "temperature": 19.3, "humidity": 34, "status": "OK"}
+{"device_id": "B1", "ts": 1790845200, "temperature": 22.6, "humidity": 30, "status": "ok"}
+{"device_id": "a2", "ts": 1790922600, "temperature": null, "humidity": 31, "status": "WARN"}
+{"device_id": "A1", "ts": 1790974800, "temperature": 21.4, "humidity": 38, "status": "ok"}
+{"device_id": "A2", "ts": 1790980200, "temperature": 28.4, "humidity": 58, "status": " OK "}
+{"device_id": "B1", "ts": 1790991000, "temperature": 19.1, "humidity": 37, "status": " OK "}
+{"device_id": "B2", "ts": 1791133200, "temperature": 23.5, "humidity": 45, "status": "OK"}
+{"device_id": "B2", "ts": 1790987400, "temperature": 26.9, "humidity": 46, "status": " OK "}
+{"device_id": "A1", "ts": 1790866800, "temperature": 21.5, "humidity": 48, "status": "Ok"}
+{"device_id": "B2", "ts": 1791109800, "temperature": 27.5, "humidity": 48, "status": " OK "}
+{"device_id": "A2", "ts": 1790971200, "temperature": 27.0, "humidity": 35, "status": "OK"}
+{"device_id": "a2", "ts": 1791036000, "temperature": 27.6, "humidity": 60, "status": "ok"}
+{"device_id": "A1", "ts": 1791003600, "temperature": 23.9, "humidity": 48, "status": "ok"}
+{"device_id": "B2", "ts": 1791091800, "temperature": 28.7, "humidity": 41, "status": "ok"}
+{"device_id": "Z9", "ts": 1790814600, "temperature": 27.5, "humidity": 49, "status": "ok"}
+{"device_id": "A1", "ts": 1790857800, "temperature": 22.7, "humidity": 30, "status": "ok"}
+{"device_id": "A2", "ts": 1790863200, "temperature": 27.8, "humidity": 68, "status": "Ok"}
+{"device_id": "A1", "ts": 1791068400, "temperature": 21.2, "humidity": 35, "status": "OK"}
+{"device_id": "A1", "ts": 1790937000, "temperature": 25.8, "humidity": 50, "status": " OK "}
+{"device_id": "B2", "ts": 1791113400, "temperature": 25.0, "humidity": 64, "status": "Ok"}
+{"device_id": "A2", "ts": 1790935200, "temperature": 32.8, "humidity": 58, "status": " WARN "}
+{"device_id": "B2", "ts": 1790888400, "temperature": 23.9, "humidity": 34, "status": " OK "}
+{"device_id": "A1", "ts": 1790924400, "temperature": 24.5, "humidity": 49, "status": " OK "}
+{"device_id": "B1", "ts": 1791072000, "temperature": 20.6, "humidity": 63, "status": " OK "}
+{"device_id": "B1", "ts": 1791115200, "temperature": 18.5, "humidity": 40, "status": "ok"}
+{"device_id": "A2", "ts": 1790872200, "temperature": 26.0, "humidity": 32, "status": "OK"}
+{"device_id": "B1", "ts": 1790879400, "temperature": 17.0, "humidity": 42, "status": "Ok"}
+{"device_id": "A1", "ts": 1791093600, "temperature": 24.1, "humidity": 43, "status": "OK"}
+{"device_id": "A1", "ts": 1791064800, "temperature": 18.5, "humidity": 63, "status": "Ok"}
+{"device_id": "B2", "ts": 1791124200, "temperature": 22.7, "humidity": 42, "status": " OK "}
+{"device_id": "B1", "ts": 1790856000, "temperature": 19.6, "humidity": 32, "status": "Ok"}
+{"device_id": "A2", "ts": 1790838000, "temperature": 34.8, "humidity": 47, "status": "alert"}
+{"device_id": "A1", "ts": 1790922600, "temperature": 25.8, "humidity": 65, "status": " OK "}
+{"device_id": "B1", "ts": 1791018000, "temperature": 21.7, "humidity": 49, "status": " OK "}
+{"device_id": "B1", "ts": 1790902800, "temperature": 22.0, "humidity": 45, "status": "OK"}
+{"device_id": "A2", "ts": 1790884800, "temperature": 29.7, "humidity": 32, "status": "ok"}
+{"device_id": "B1", "ts": 1790929800, "temperature": 24.8, "humidity": 64, "status": "Ok"}
+{"device_id": "B1", "ts": 1790964000, "temperature": 15.8, "humidity": 37, "status": " OK "}
+{"device_id": "B2", "ts": 1791136800, "temperature": null, "humidity": 60, "status": "OK"}
+{"device_id": "b1", "ts": 1790994600, "temperature": 21.4, "humidity": 32, "status": "OK"}
+{"device_id": "B2", "ts": 1791009000, "temperature": 29.4, "humidity": 69, "status": "OK"}
+{"device_id": "B1", "ts": 1791138600, "temperature": 999.9, "humidity": 38, "status": "OK"}
+{"device_id": "a1", "ts": 1790956800, "temperature": null, "humidity": 64, "status": "Ok"}
+{"device_id": "A2", "ts": 1791023400, "temperature": 31.1, "humidity": 63, "status": " WARN "}
+{"device_id": "B1", "ts": 1790987400, "temperature": 20.9, "humidity": 66, "status": "OK"}
+{"device_id": "A1", "ts": 1791046800, "temperature": 20.3, "humidity": 33, "status": "OK"}
+{"device_id": "A1", "ts": 1790917200, "temperature": 24.9, "humidity": 69, "status": "ok"}
+{"device_id": "A2", "ts": 1790964000, "temperature": 27.6, "humidity": 39, "status": "OK"}
+{"device_id": "A2", "ts": 1791016200, "temperature": 32.3, "humidity": 59, "status": "Warn"}
+{"device_id": "B2", "ts": 1791077400, "temperature": 28.5, "humidity": 62, "status": "Ok"}
+{"device_id": "A2", "ts": 1791117000, "temperature": 29.7, "humidity": 43, "status": "OK"}
+{"device_id": "B1", "ts": 1791111600, "temperature": 19.1, "humidity": 49, "status": " OK "}
+{"device_id": "B1", "ts": 1790949600, "temperature": 18.1, "humidity": 39, "status": "ok"}
+{"device_id": "B1", "ts": 1791100800, "temperature": 22.6, "humidity": 31, "status": "Ok"}
+{"device_id": "B1", "ts": 1791039600, "temperature": 16.6, "status": "ok"}
+{"device_id": "A2", "ts": 1790843400, "temperature": 32.3, "humidity": 58, "status": " WARN "}
+{"device_id": "A2", "ts": 1791102600, "temperature": 31.1, "humidity": 60, "status": "WARN"}
+{"device_id": "B2", "ts": 1791043200, "temperature": 23.0, "humidity": 62, "status": " OK "}
+{"device_id": "B1", "ts": 1791001800, "temperature": 24.1, "humidity": 35, "status": "OK"}
+{"device_id": "B1", "ts": 1790892000, "temperature": 18.3, "humidity": 34, "status": "OK"}
+{"device_id": "A2", "ts": 1790857800, "temperature": 28.0, "humidity": 34, "status": " OK "}
+{"device_id": "B1", "ts": 1791153000, "temperature": 17.8, "humidity": 30, "status": "Ok"}
+{"device_id": "A1", "ts": 1791145800, "temperature": 19.1, "humidity": 59, "status": "ok"}
+{"device_id": "A2", "ts": 1790852400, "temperature": 30.5, "humidity": 43, "status": "WARN"}
+{"device_id": "A2", "ts": 1790913600, "temperature": 30.3, "humidity": 39, "status": "warn"}
+{"device_id": "A1", "ts": 1790944200, "temperature": 21.4, "status": " OK "}
+{"device_id": "B1", "ts": 1790942400, "temperature": 18.3, "humidity": 69, "status": "Ok"}
+{"device_id": "B2", "ts": 1790940600, "temperature": 28.6, "humidity": 41, "status": "ok"}
+{"device_id": "A2", "ts": 1790845200, "temperature": 33.2, "humidity": 40, "status": "WARN"}
+{"device_id": "B1", "ts": 1791016200, "temperature": 22.2, "humidity": 56, "status": " OK "}
+{"device_id": "B2", "ts": 1790872200, "temperature": "23.0", "humidity": 64, "status": " OK "}
+{"device_id": "b1", "ts": 1790821800, "temperature": 21.1, "humidity": 54, "status": "Ok"}
+{"device_id": "A2", "ts": 1790942400, "temperature": 29.5, "humidity": 45, "status": "ok"}
+{"device_id": "A2", "ts": 1791001800, "temperature": 32.0, "humidity": 60, "status": "WARN"}
+{"device_id": "B2", "ts": 1791126000, "temperature": 23.8, "humidity": 38, "status": " OK "}
+{"device_id": "A2", "ts": 1790897400, "temperature": "29.4", "status": "OK"}
+{"device_id": "B1", "ts": 1791109800, "temperature": 21.4, "humidity": 42, "status": " OK "}
+{"device_id": "A1", "ts": 1790877600, "temperature": 19.7, "humidity": 39, "status": "OK"}
+{"device_id": "b1", "ts": 1790937000, "temperature": 21.3, "humidity": 32, "status": "OK"}
+{"device_id": "B2", "ts": 1791149400, "temperature": 23.2, "humidity": 53, "status": " OK "}
+{"device_id": "A1", "ts": 1790947800, "temperature": 19.6, "humidity": 36, "status": "OK"}
+{"device_id": "A2", "ts": 1790902800, "temperature": 30.7, "humidity": 49, "status": "warn"}
+{"device_id": "A1", "ts": 1790913600, "temperature": 24.5, "humidity": 68, "status": "OK"}
+{"device_id": "A1", "ts": 1791075600, "temperature": 22.5, "humidity": 60, "status": "Ok"}
+{"device_id": "B1", "ts": 1791030600, "temperature": "21.3", "humidity": 31, "status": "OK"}
+{"device_id": "A2", "ts": 1791084600, "temperature": "31.9", "humidity": 39, "status": "Warn"}
+{"device_id": "A2", "ts": 1791097200, "temperature": 32.0, "humidity": 39, "status": "Warn"}
+{"device_id": "B2", "ts": 1791023400, "temperature": 27.9, "humidity": 62, "status": "OK"}
+{"device_id": "A1", "ts": 1790991000, "temperature": 24.3, "humidity": 50, "status": "Ok"}
+{"device_id": "B1", "ts": 1791028800, "temperature": 20.8, "humidity": 45, "status": "ok"}
+{"device_id": "A1", "ts": 1790940600, "temperature": 22.6, "humidity": 53, "status": "OK"}
+{"device_id": "A2", "ts": 1790877600, "temperature": 28.5, "humidity": 39, "status": "ok"}
+{"device_id": "B2", "ts": 1791106200, "temperature": 30.3, "humidity": 32, "status": "warn"}
+{"device_id": "B1", "ts": 1790881200, "temperature": 18.2, "humidity": 58, "status": "OK"}
+{"device_id": "B2", "ts": 1790832600, "temperature": 29.0, "humidity": 31, "status": "ok"}
+{"device_id": "B2", "ts": 1791032400, "temperature": 25.5, "humidity": 62, "status": " OK "}
+{"device_id": "B2", "ts": 1790884800, "temperature": 22.6, "humidity": 61, "status": "ok"}
+{"device_id": "B2", "ts": 1790854200, "temperature": 26.1, "humidity": 55, "status": "OK"}
+{"device_id": "B1", "ts": 1791102600, "temperature": 22.9, "humidity": 52, "status": "OK"}
+{"device_id": "B2", "ts": 1791117000, "temperature": 25.0, "humidity": 61, "status": "OK"}
+{"device_id": "B1", "ts": 1790825400, "temperature": 22.7, "humidity": 52, "status": "OK"}
+{"device_id": "A2", "ts": 1791025200, "temperature": null, "humidity": 33, "status": "ok"}
+{"device_id": "B1", "ts": 1791000000, "temperature": 24.1, "humidity": 57, "status": "OK"}
+{"device_id": "Z9", "ts": 1790821800, "temperature": "28.4", "humidity": 63, "status": "Ok"}
+{"device_id": "B2", "ts": 1790883000, "temperature": 23.5, "humidity": 64, "status": " OK "}
+{"device_id": "A2", "ts": 1790924400, "temperature": 35.6, "humidity": 69, "status": "Alert"}
+{"device_id": "B1", "ts": 1791124200, "temperature": 999.9, "humidity": 46, "status": "Ok"}
+{"device_id": "A1", "ts": 1791126000, "temperature": 20.1, "humidity": 66, "status": "OK"}
+{"device_id": "a1", "ts": 1791124200, "temperature": 21.5, "humidity": 41, "status": "ok"}
+{"device_id": "B2", "ts": 1790926200, "temperature": 28.8, "status": "ok"}
+{"device_id": "A2", "ts": 1791104400, "temperature": 32.8, "humidity": 36, "status": "warn"}
+{"device_id": "A2", "ts": 1790861400, "temperature": 29.6, "humidity": 34, "status": " OK "}
+{"device_id": "A2", "ts": 1790886600, "temperature": 26.9, "humidity": 45, "status": " OK "}
+{"device_id": "A1", "ts": 1791156600, "temperature": 21.4, "humidity": 40, "status": "OK"}
+{"device_id": "B1", "ts": 1790830800, "temperature": 22.6, "humidity": 45, "status": " OK "}
+{"device_id": "B2", "ts": 1790969400, "temperature": 23.0, "humidity": 54, "status": " OK "}
+{"device_id": "B2", "ts": 1791088200, "temperature": 28.5, "humidity": 56, "status": "Ok"}
+{"device_id": "B2", "ts": 1791050400, "temperature": null, "humidity": 45, "status": " OK "}
+{"device_id": "A2", "ts": 1790915400, "temperature": 33.8, "humidity": 39, "status": "Warn"}
+{"device_id": "B2", "ts": 1791064800, "temperature": 23.2, "humidity": 46, "status": "ok"}
+{"device_id": "B1", "ts": 1790956800, "temperature": 17.4, "humidity": 60, "status": "ok"}
+{"device_id": "B2", "ts": 1791127800, "temperature": 23.4, "humidity": 67, "status": "OK"}
+{"device_id": "A1", "ts": 1790920800, "temperature": 25.8, "humidity": 68, "status": "ok"}
+{"device_id": "B1", "ts": 1790883000, "temperature": 17.0, "humidity": 64, "status": " OK "}
+{"device_id": "B2", "ts": 1790847000, "temperature": 26.7, "humidity": 54, "status": "OK"}
+{"device_id": "A1", "ts": 1790965800, "temperature": 20.0, "humidity": 44, "status": "OK"}
+{"device_id": "B2", "ts": 1791059400, "temperature": 22.8, "humidity": 57, "status": "Ok"}
+{"device_id": "A2", "ts": 1790834400, "temperature": 32.9, "humidity": 43, "status": "warn"}
+{"device_id": "B2", "ts": 1790899200, "temperature": 25.5, "humidity": 44, "status": "ok"}
+{"device_id": "A1", "ts": 1790929800, "temperature": 24.8, "humidity": 44, "status": "Ok"}
+{"device_id": "B1", "ts": 1791144000, "temperature": 16.9, "humidity": 61, "status": " OK "}
+{"device_id": "B1", "ts": 1791145800, "temperature": 17.4, "humidity": 31, "status": "OK"}
+{"device_id": "B1", "ts": 1791068400, "temperature": 20.1, "humidity": 66, "status": "Ok"}
+{"device_id": "B1", "ts": 1790899200, "temperature": 20.4, "humidity": 64, "status": "Ok"}
+{"device_id": "A2", "ts": 1791050400, "temperature": "26.6", "humidity": 41, "status": "OK"}
+{"device_id": "A1", "ts": 1791066600, "temperature": 19.6, "humidity": 42, "status": "OK"}
+{"device_id": "B2", "ts": 1790989200, "temperature": 25.8, "humidity": 68, "status": " OK "}
+{"device_id": "b1", "ts": 1790818200, "temperature": 21.6, "humidity": 63, "status": "Ok"}
+{"device_id": "A2", "ts": 1791066600, "temperature": 28.4, "status": "Ok"}
+{"device_id": "A2", "ts": 1791064800, "temperature": 27.3, "humidity": 36, "status": "Ok"}
+{"device_id": "A2", "ts": 1790870400, "temperature": 27.1, "humidity": 35, "status": " OK "}
+{"device_id": "B1", "ts": 1791036000, "temperature": null, "humidity": 64, "status": "Ok"}
+{"device_id": "B1", "ts": 1790820000, "temperature": 19.7, "humidity": 45, "status": "OK"}
+{"device_id": "A1", "ts": 1790827200, "temperature": null, "humidity": 69, "status": "ok"}
+{"device_id": "B1", "ts": 1791003600, "temperature": 25.3, "humidity": 60, "status": " OK "}
+{"device_id": "B1", "ts": 1790985600, "temperature": 20.8, "humidity": 37, "status": "OK"}
+{"device_id": "B1", "ts": 1790834400, "temperature": 23.5, "humidity": 59, "status": " OK "}
+{"device_id": "A2", "ts": 1791048600, "temperature": 29.3, "humidity": 44, "status": "Ok"}
+{"device_id": "A2", "ts": 1790814600, "temperature": 30.4, "humidity": 65, "status": "Warn"}
+{"device_id": "A1", "ts": 1791086400, "temperature": 25.1, "humidity": 57, "status": "Ok"}
+{"device_id": "B1", "ts": 1790915400, "temperature": 23.6, "humidity": 59, "status": " OK "}
+{"device_id": "B2", "ts": 1790983800, "temperature": 24.5, "humidity": 35, "status": "OK"}
+{"device_id": "B1", "ts": 1791084600, "temperature": 21.5, "humidity": 48, "status": " OK "}
+{"device_id": "B1", "ts": 1790829000, "temperature": 22.6, "humidity": 43, "status": "ok"}
+{"device_id": "A1", "ts": 1791102600, "temperature": 22.6, "humidity": 40, "status": " OK "}
+{"device_id": "A1", "ts": 1790987400, "temperature": 20.9, "humidity": 66, "status": " OK "}
+{"device_id": "B1", "ts": 1791066600, "temperature": 17.0, "humidity": 54, "status": "ok"}
+{"device_id": "A1", "ts": 1791043200, "temperature": 18.7, "humidity": 42, "status": " OK "}
+{"device_id": "B1", "ts": 1791151200, "temperature": 19.2, "humidity": 67, "status": "Ok"}
+{"device_id": "B2", "ts": 1790841600, "temperature": 31.1, "humidity": 56, "status": "warn"}
+{"device_id": "B1", "ts": 1790922600, "temperature": 23.2, "humidity": 34, "status": "ok"}
+{"device_id": "A1", "ts": 1790951400, "temperature": 18.9, "humidity": 60, "status": " OK "}
+{"device_id": "B2", "ts": 1790991000, "temperature": 27.6, "humidity": 56, "status": " OK "}
+{"device_id": "B1", "ts": 1790897400, "temperature": 18.5, "status": "Ok"}
+{"device_id": "B1", "ts": 1790886600, "temperature": 19.2, "humidity": 55, "status": "ok"}
+{"device_id": "B1", "ts": 1791095400, "temperature": 22.8, "humidity": 47, "status": "Ok"}
+{"device_id": "A2", "ts": 1791073800, "temperature": 29.1, "humidity": 42, "status": "OK"}
+{"device_id": "B1", "ts": 1790906400, "temperature": 20.9, "status": "ok"}
+{"device_id": "A1", "ts": 1791154800, "temperature": 19.9, "humidity": 41, "status": "Ok"}
+{"device_id": "A1", "ts": 1790994600, "temperature": 23.4, "humidity": 62, "status": " OK "}
+{"device_id": "B1", "ts": 1790870400, "temperature": 18.1, "humidity": 52, "status": "OK"}
+{"device_id": "B1", "ts": 1791086400, "temperature": 21.5, "humidity": 56, "status": "ok"}
+{"device_id": "B2", "ts": 1790982000, "temperature": 25.0, "humidity": 59, "status": " OK "}
+{"device_id": "B1", "ts": 1791059400, "temperature": 15.3, "humidity": 34, "status": " OK "}
+{"device_id": "B2", "ts": 1790910000, "temperature": 28.0, "humidity": 47, "status": " OK "}
+{"device_id": "B2", "ts": 1790868600, "temperature": 25.0, "humidity": 64, "status": "ok"}
+{"device_id": "B1", "ts": 1790958600, "temperature": 16.8, "humidity": 53, "status": "Ok"}
+{"device_id": "A1", "ts": 1791070200, "temperature": 19.6, "humidity": 61, "status": "OK"}
+{"device_id": "A2", "ts": 1791120600, "temperature": 28.5, "humidity": 49, "status": "OK"}
+{"device_id": "B2", "ts": 1791021600, "temperature": 29.4, "humidity": 62, "status": " OK "}
+{"device_id": "A1", "ts": 1791037800, "temperature": 20.2, "humidity": 30, "status": " OK "}
+{"device_id": "A1", "ts": 1790848800, "temperature": 21.7, "humidity": 45, "status": "OK"}
+{"device_id": "B1", "ts": 1790919000, "temperature": 23.1, "humidity": 52, "status": " OK "}
+{"device_id": "B1", "ts": 1791127800, "temperature": 20.7, "humidity": 43, "status": " OK "}
+{"device_id": "B1", "ts": 1791057600, "temperature": 16.8, "humidity": 69, "status": "Ok"}
+{"device_id": "B2", "ts": 1790897400, "temperature": 26.9, "humidity": 50, "status": "OK"}
+{"device_id": "B1", "ts": 1790911800, "temperature": 21.4, "humidity": 32, "status": "OK"}
+{"device_id": "A1", "ts": 1790919000, "temperature": 26.4, "humidity": 46, "status": "Ok"}
+{"device_id": "B1", "ts": 1790929800, "temperature": 24.8, "humidity": 64, "status": "Ok"}
+{"device_id": "A2", "ts": 1791086400, "temperature": 32.6, "humidity": 40, "status": "warn"}
+{"device_id": "A2", "ts": 1791100800, "temperature": 31.7, "humidity": 68, "status": "Warn"}
+{"device_id": "B2", "ts": 1791016200, "temperature": 26.3, "humidity": 38, "status": "Ok"}
+{"device_id": "A2", "ts": 1791095400, "temperature": 32.8, "humidity": 68, "status": " WARN "}
+{"device_id": "A1", "ts": 1790884800, "temperature": 18.6, "humidity": 47, "status": " OK "}
+{"device_id": "A2", "ts": 1791088200, "temperature": 32.7, "humidity": 55, "status": " WARN "}
+{"device_id": "B1", "ts": 1791140400, "temperature": 16.5, "humidity": 48, "status": "Ok"}
+{"device_id": "A2", "ts": 1791068400, "temperature": 30.9, "humidity": 62, "status": "WARN"}
+{"device_id": "a2", "ts": 1790982000, "temperature": 30.4, "status": " WARN "}
+{"device_id": "B1", "ts": 1790861400, "temperature": 19.9, "humidity": 40, "status": "OK"}
+{"device_id": "A2", "ts": 1790908200, "temperature": 32.5, "humidity": 64, "status": "Warn"}
+{"device_id": "B2", "ts": 1790937000, "temperature": 26.2, "humidity": 64, "status": " OK "}
+{"device_id": "B2", "ts": 1790836200, "temperature": 29.4, "humidity": 34, "status": "Ok"}
+{"device_id": "A2", "ts": 1791018000, "temperature": 30.8, "humidity": 32, "status": "warn"}
+{"device_id": "A2", "ts": 1790911800, "temperature": 32.8, "humidity": 34, "status": "Warn"}
+{"device_id": "A1", "ts": 1790982000, "temperature": 22.5, "humidity": 63, "status": " OK "}
+{"device_id": "B2", "ts": 1790911800, "temperature": "27.9", "humidity": 57, "status": "ok"}
+{"device_id": "A1", "ts": 1790899200, "temperature": 19.6, "humidity": 33, "status": "ok"}
+{"device_id": "A2", "ts": 1790985600, "temperature": 30.4, "humidity": 31, "status": "Warn"}
+{"device_id": "A1", "ts": 1791133200, "temperature": 19.4, "humidity": 63, "status": "Ok"}
+{"device_id": "a1", "ts": 1790816400, "temperature": 21.7, "humidity": 32, "status": " OK "}
+{"device_id": "B1", "ts": 1791007200, "temperature": 21.9, "humidity": 40, "status": "OK"}
+{"device_id": "A2", "ts": 1791131400, "temperature": 26.6, "humidity": 31, "status": " OK "}
+{"device_id": "B2", "ts": 1791120600, "temperature": 25.7, "humidity": 58, "status": "ok"}
+{"device_id": "B1", "ts": 1790908200, "temperature": 21.5, "humidity": 38, "status": "Ok"}
+{"device_id": "B2", "ts": 1791039600, "temperature": 23.8, "humidity": 62, "status": "OK"}
+{"device_id": "B1", "ts": 1791097200, "temperature": 23.3, "humidity": 59, "status": "Ok"}
+{"device_id": "A2", "ts": 1790969400, "temperature": 26.8, "humidity": 38, "status": "OK"}
+{"device_id": "A1", "ts": 1790895600, "temperature": 19.6, "humidity": 30, "status": "ok"}
+{"device_id": "A1", "ts": 1791010800, "temperature": 26.6, "humidity": 36, "status": "ok"}
+{"device_id": "B1", "ts": 1791093600, "temperature": 20.6, "humidity": 46, "status": "ok"}
+{"device_id": "A2", "ts": 1791090000, "temperature": 31.6, "humidity": 37, "status": "Warn"}
+{"device_id": "A1", "ts": 1791131400, "temperature": 19.9, "status": "Ok"}
+{"device_id": "A2", "ts": 1790998200, "temperature": 33.4, "humidity": 65, "status": " WARN "}
+{"device_id": "B2", "ts": 1791070200, "temperature": 24.9, "humidity": 31, "status": "OK"}
+{"device_id": "A2", "ts": 1791081000, "temperature": 31.3, "humidity": 47, "status": "WARN"}
+{"device_id": "A2", "ts": 1790967600, "temperature": "27.8", "humidity": 46, "status": " OK "}
+{"device_id": "B2", "ts": 1791046800, "temperature": "22.2", "humidity": 63, "status": "Ok"}
+{"device_id": "B2", "ts": 1791066600, "temperature": 24.0, "humidity": 54, "status": " OK "}
+{"device_id": "B2", "ts": 1791073800, "temperature": 27.8, "humidity": 44, "status": "ok"}
+{"device_id": "B1", "ts": 1790973000, "temperature": 17.2, "humidity": 46, "status": "OK"}
+{"device_id": "B2", "ts": 1790841600, "temperature": 31.1, "humidity": 56, "status": "warn"}
+{"device_id": "B2", "ts": 1790933400, "temperature": 29.3, "humidity": 68, "status": "OK"}
+{"device_id": "A1", "ts": 1791151200, "temperature": 20.8, "humidity": 39, "status": "ok"}
+{"device_id": "B1", "ts": 1791073800, "temperature": 17.9, "humidity": 57, "status": "OK"}
+{"device_id": "b2", "ts": 1791111600, "temperature": 29.8, "humidity": 41, "status": "ok"}
+{"device_id": "B2", "ts": 1790838000, "temperature": 29.9, "humidity": 47, "status": " OK "}
+{"device_id": "B2", "ts": 1790863200, "temperature": 24.2, "humidity": 40, "status": " OK "}
+{"device_id": "A1", "ts": 1790830800, "temperature": 25.7, "humidity": 50, "status": "OK"}
+{"device_id": "A2", "ts": 1791115200, "temperature": 30.0, "humidity": 32, "status": "Warn"}
+{"device_id": "A2", "ts": 1790856000, "temperature": 29.1, "humidity": 40, "status": "ok"}
+{"device_id": "B1", "ts": 1791088200, "temperature": 23.3, "humidity": 44, "status": "ok"}
+{"device_id": "A1", "ts": 1791106200, "temperature": null, "humidity": 34, "status": "OK"}
+{"device_id": "A1", "ts": 1791082800, "temperature": 22.1, "humidity": 48, "status": " OK "}
+{"device_id": "B1", "ts": 1790926200, "temperature": 22.2, "humidity": 62, "status": "OK"}
+{"device_id": "a1", "ts": 1790902800, "temperature": 24.3, "humidity": 49, "status": "Ok"}
+{"device_id": "B1", "ts": 1791019800, "temperature": 21.2, "humidity": 35, "status": " OK "}
+{"device_id": "B2", "ts": 1791154800, "temperature": 25.2, "humidity": 36, "status": "OK"}
+{"device_id": "B1", "ts": 1790843400, "temperature": null, "humidity": 42, "status": "Ok"}
+{"device_id": "B1", "ts": 1791120600, "temperature": 19.0, "humidity": 41, "status": " OK "}
+{"device_id": "B2", "ts": 1790947800, "temperature": 25.7, "humidity": 62, "status": "OK"}
+{"device_id": "B2", "ts": 1790875800, "temperature": 23.1, "humidity": 50, "status": "Ok"}
+{"device_id": "A1", "ts": 1790843400, "temperature": 21.4, "humidity": 50, "status": "OK"}
+{"device_id": "A2", "ts": 1791055800, "temperature": null, "humidity": 65, "status": "Ok"}
+{"device_id": "B1", "ts": 1790980200, "temperature": 20.9, "humidity": 34, "status": "OK"}
+{"device_id": "A1", "ts": 1791001800, "temperature": 23.1, "humidity": 45, "status": " OK "}
+{"device_id": "B2", "ts": 1790904600, "temperature": 28.6, "humidity": 54, "status": " OK "}
+{"device_id": "B1", "ts": 1790953200, "temperature": 17.4, "humidity": 61, "status": "Ok"}
+{"device_id": "A2", "ts": 1790820000, "temperature": 29.3, "humidity": 46, "status": "ok"}
+{"device_id": "B2", "ts": 1791041400, "temperature": 21.2, "humidity": 69, "status": "Ok"}
+{"device_id": "B2", "ts": 1790845200, "temperature": 28.3, "humidity": 56, "status": " OK "}
+{"device_id": "B2", "ts": 1791093600, "temperature": "30.4", "humidity": 40, "status": "WARN"}
+{"device_id": "B2", "ts": 1790955000, "temperature": 20.9, "humidity": 54, "status": "ok"}
+{"device_id": "A2", "ts": 1791010800, "temperature": 32.6, "humidity": 46, "status": "Warn"}
+{"device_id": "A1", "ts": 1790872200, "temperature": 21.6, "humidity": 64, "status": "ok"}
+{"device_id": "B2", "ts": 1790946000, "temperature": 26.0, "humidity": 40, "status": "Ok"}
+{"device_id": "B1", "ts": 1791041400, "temperature": 20.4, "humidity": 42, "status": "OK"}
+{"device_id": "A2", "ts": 1790832600, "temperature": 33.6, "humidity": 58, "status": "WARN"}
+{"device_id": "A1", "ts": 1790938800, "temperature": 21.8, "humidity": 32, "status": "OK"}
+{"device_id": "A1", "ts": 1790850600, "temperature": 23.3, "humidity": 39, "status": " OK "}
+{"device_id": "B2", "ts": 1790992800, "temperature": 27.0, "humidity": 67, "status": "ok"}
+{"device_id": "A1", "ts": 1790838000, "temperature": 24.6, "humidity": 64, "status": "ok"}
+{"device_id": "B1", "ts": 1790931600, "temperature": 22.2, "humidity": 49, "status": "OK"}
+{"device_id": "A1", "ts": 1791129600, "temperature": 19.4, "humidity": 55, "status": "OK"}
+{"device_id": "a1", "ts": 1790960400, "temperature": 19.0, "humidity": 33, "status": " OK "}
+{"device_id": "B1", "ts": 1790823600, "temperature": 23.6, "humidity": 45, "status": "OK"}
+{"device_id": "B1", "ts": 1790998200, "temperature": 19.6, "humidity": 50, "status": "OK"}
+{"device_id": "A1", "ts": 1790915400, "temperature": 23.4, "humidity": 55, "status": " OK "}
+{"device_id": "A2", "ts": 1791082800, "temperature": 31.1, "humidity": 53, "status": "warn"}
+{"device_id": "A1", "ts": 1790841600, "temperature": 24.8, "humidity": 35, "status": " OK "}
+{"device_id": "B1", "ts": 1790951400, "temperature": 17.1, "humidity": 68, "status": " OK "}
+{"device_id": "A1", "ts": 1790969400, "temperature": 18.2, "humidity": 67, "status": "OK"}
+{"device_id": "A2", "ts": 1790987400, "temperature": 29.8, "humidity": 67, "status": "ok"}
+{"device_id": "B2", "ts": 1790893800, "temperature": null, "humidity": 53, "status": "ok"}
+{"device_id": "A2", "ts": 1791005400, "temperature": 32.4, "humidity": 62, "status": " WARN "}
+{"device_id": "A2", "ts": 1791039600, "temperature": 26.9, "humidity": 34, "status": " OK "}
+{"device_id": "B2", "ts": 1790924400, "temperature": 28.3, "humidity": 59, "status": "Ok"}
+{"device_id": "B2", "ts": 1791129600, "temperature": 24.7, "humidity": 47, "status": "ok"}
+{"device_id": "A1", "ts": 1791095400, "temperature": 25.4, "humidity": 31, "status": "OK"}
+{"device_id": "A2", "ts": 1790992800, "temperature": 30.5, "humidity": 61, "status": " WARN "}
+{"device_id": "A1", "ts": 1791027000, "temperature": 24.0, "humidity": 59, "status": "ok"}
+{"device_id": "A2", "ts": 1791135000, "temperature": "27.3", "humidity": 48, "status": "ok"}
+{"device_id": "A1", "ts": 1790836200, "temperature": 22.8, "humidity": 69, "status": "OK"}
+{"device_id": "b2", "ts": 1790938800, "temperature": 27.7, "humidity": 53, "status": " OK "}
+{"device_id": "B1", "ts": 1791070200, "temperature": 18.8, "humidity": 48, "status": "OK"}
+{"device_id": "A2", "ts": 1790901000, "temperature": null, "humidity": 41, "status": " WARN "}
+{"device_id": "B2", "ts": 1790852400, "temperature": 26.3, "humidity": 66, "status": "OK"}
+{"device_id": "A2", "ts": 1790960400, "temperature": 25.6, "status": "ok"}
+{"device_id": "B2", "ts": 1791138600, "temperature": 21.7, "humidity": 41, "status": "ok"}
+{"device_id": "B2", "ts": 1790944200, "temperature": "24.4", "humidity": 54, "status": "Ok"}
+{"device_id": "B2", "ts": 1791153000, "temperature": "22.4", "status": "OK"}
+{"device_id": "B2", "ts": 1791156600, "temperature": 26.4, "humidity": 58, "status": "ok"}
+{"device_id": "A2", "ts": 1791019800, "temperature": 31.9, "humidity": 60, "status": "Warn"}
+{"device_id": "A1", "ts": 1791115200, "temperature": 19.6, "humidity": 58, "status": " OK "}
+{"device_id": "A2", "ts": 1790825400, "temperature": "32.5", "humidity": 61, "status": "Warn"}
+{"device_id": "A1", "ts": 1790989200, "temperature": 24.3, "status": " OK "}
+{"device_id": "B2", "ts": 1791052200, "temperature": 24.4, "humidity": 64, "status": "ok"}
+{"device_id": "B1", "ts": 1790893800, "temperature": 19.8, "humidity": 31, "status": "Ok"}
+{"device_id": "B2", "ts": 1791068400, "temperature": 22.5, "humidity": 42, "status": " OK "}
+{"device_id": "B2", "ts": 1790890200, "temperature": 23.5, "humidity": 33, "status": " OK "}
+{"device_id": "A2", "ts": 1790901000, "temperature": null, "humidity": 41, "status": " WARN "}
+{"device_id": "A1", "ts": 1790967600, "temperature": 17.0, "status": " OK "}
+{"device_id": "B1", "ts": 1790967600, "temperature": 18.2, "humidity": 53, "status": "OK"}
+{"device_id": "b2", "ts": 1790928000, "temperature": 27.9, "humidity": 64, "status": "Ok"}
+{"device_id": "A1", "ts": 1790890200, "temperature": 19.5, "humidity": 47, "status": " OK "}
+{"device_id": "B2", "ts": 1790958600, "temperature": 24.4, "humidity": 68, "status": "OK"}
+{"device_id": "B1", "ts": 1790863200, "temperature": 19.0, "humidity": 58, "status": "OK"}
+{"device_id": "A1", "ts": 1791084600, "temperature": 24.3, "humidity": 56, "status": "ok"}
+{"device_id": "B1", "ts": 1790938800, "temperature": 21.3, "humidity": 47, "status": " OK "}
+{"device_id": "a2", "ts": 1791153000, "temperature": 27.0, "humidity": 56, "status": "Ok"}
+{"device_id": "A2", "ts": 1791099000, "temperature": 32.0, "humidity": 40, "status": "WARN"}
+{"device_id": "B1", "ts": 1790832600, "temperature": "22.1", "humidity": 58, "status": "ok"}
+{"device_id": "A2", "ts": 1791091800, "temperature": "32.9", "humidity": 50, "status": " WARN "}
+{"device_id": "A2", "ts": 1790976600, "temperature": 27.4, "humidity": 68, "status": "ok"}
+{"device_id": "A2", "ts": 1791052200, "temperature": 27.0, "humidity": 65, "status": "Ok"}
+{"device_id": "A1", "ts": 1791057600, "temperature": 20.4, "status": "ok"}
+{"device_id": "B1", "ts": 1791149400, "temperature": 19.1, "humidity": 58, "status": "OK"}
+{"device_id": "A2", "ts": 1791122400, "temperature": 26.0, "humidity": 39, "status": "Ok"}
+{"device_id": "B1", "ts": 1791142200, "temperature": 15.5, "humidity": 54, "status": "Ok"}
+{"device_id": "A2", "ts": 1791106200, "temperature": 32.1, "humidity": 35, "status": " WARN "}
+{"device_id": "A1", "ts": 1791120600, "temperature": 20.9, "humidity": 33, "status": "ok"}
+{"device_id": "A1", "ts": 1790926200, "temperature": "24.8", "humidity": 42, "status": "OK"}
+{"device_id": "A1", "ts": 1790847000, "temperature": 24.0, "humidity": 55, "status": "ok"}
+{"device_id": "B1", "ts": 1790940600, "temperature": 18.4, "humidity": 48, "status": "OK"}
+{"device_id": "A1", "ts": 1791025200, "temperature": 21.4, "humidity": 65, "status": "OK"}
+{"device_id": "B2", "ts": 1791034200, "temperature": 23.7, "humidity": 50, "status": "Ok"}
+{"device_id": "B2", "ts": 1791028800, "temperature": 25.9, "humidity": 42, "status": "Ok"}
+{"device_id": "A1", "ts": 1791019800, "temperature": 22.9, "humidity": 55, "status": "ok"}
+{"device_id": "B2", "ts": 1790843400, "temperature": 28.7, "humidity": 61, "status": "Ok"}
+{"device_id": "A2", "ts": 1790883000, "temperature": 27.9, "humidity": 65, "status": " OK "}
+{"device_id": "B1", "ts": 1791091800, "temperature": 22.9, "humidity": 44, "status": "OK"}
+{"device_id": "B2", "ts": 1791100800, "temperature": 27.5, "humidity": 57, "status": " OK "}
+{"device_id": "B2", "ts": 1790821800, "temperature": 30.8, "humidity": 30, "status": "Warn"}
+{"device_id": "Z9", "ts": 1790812800, "temperature": 23.4, "humidity": 34, "status": "Ok"}
+{"device_id": "B2", "ts": 1791057600, "temperature": 24.6, "humidity": 61, "status": " OK "}
+{"device_id": "B2", "ts": 1791122400, "temperature": 24.0, "humidity": 65, "status": "ok"}
+{"device_id": "A2", "ts": 1790812800, "temperature": 31.4, "humidity": 55, "status": "WARN"}
+{"device_id": "B2", "ts": 1790857800, "temperature": 24.2, "humidity": 65, "status": " OK "}
+{"device_id": "A2", "ts": 1790962200, "temperature": 28.0, "humidity": 47, "status": "Ok"}
+{"device_id": "A2", "ts": 1791126000, "temperature": 27.7, "humidity": 44, "status": " OK "}
+{"device_id": "A2", "ts": 1790906400, "temperature": 32.1, "humidity": 37, "status": "WARN"}
+{"device_id": "B2", "ts": 1790856000, "temperature": 26.1, "humidity": 34, "status": " OK "}
+{"device_id": "A2", "ts": 1791133200, "temperature": null, "humidity": 68, "status": "Ok"}
+{"device_id": "B1", "ts": 1791021600, "temperature": 20.8, "humidity": 64, "status": "OK"}
+{"device_id": "B1", "ts": 1791032400, "temperature": 19.2, "humidity": 60, "status": "ok"}
+{"device_id": "B2", "ts": 1790902800, "temperature": 28.2, "humidity": 65, "status": "ok"}
+{"device_id": "B1", "ts": 1791079200, "temperature": 21.9, "humidity": 58, "status": "OK"}
+{"device_id": "B2", "ts": 1791061200, "temperature": 24.9, "humidity": 66, "status": "OK"}
+{"device_id": "b1", "ts": 1791118800, "temperature": 19.1, "humidity": 42, "status": " OK "}
+{"device_id": "a1", "ts": 1790973000, "temperature": 17.8, "humidity": 40, "status": "Ok"}
+{"device_id": "B1", "ts": 1790974800, "temperature": 19.3, "humidity": 57, "status": "OK"}
+{"device_id": "a2", "ts": 1790848800, "temperature": 31.2, "humidity": 31, "status": "Warn"}
+{"device_id": "A2", "ts": 1791057600, "temperature": 26.2, "humidity": 35, "status": " OK "}
+{"device_id": "B1", "ts": 1791126000, "temperature": 17.8, "humidity": 56, "status": "ok"}
+{"device_id": "B2", "ts": 1790865000, "temperature": 22.9, "humidity": 48, "status": "OK"}
+{"device_id": "A2", "ts": 1791059400, "temperature": 26.4, "humidity": 32, "status": " OK "}
+{"device_id": "A2", "ts": 1791027000, "temperature": 29.1, "humidity": 61, "status": "OK"}
+{"device_id": "b1", "ts": 1790917200, "temperature": 23.2, "humidity": 33, "status": "OK"}
+{"device_id": "a2", "ts": 1790922600, "temperature": null, "humidity": 31, "status": "WARN"}
+{"device_id": "B1", "ts": 1790989200, "temperature": 21.6, "humidity": 57, "status": "ok"}
+{"device_id": "A1", "ts": 1790942400, "temperature": 22.6, "humidity": 66, "status": "Ok"}
+{"device_id": "A1", "ts": 1790992800, "temperature": 23.5, "humidity": 61, "status": "ok"}
+{"device_id": "A2", "ts": 1791072000, "temperature": 28.7, "humidity": 51, "status": "ok"}
+{"device_id": "A2", "ts": 1790974800, "temperature": "27.7", "humidity": 56, "status": "Ok"}
+{"device_id": "B1", "ts": 1791014400, "temperature": 20.8, "humidity": 54, "status": "ok"}
+{"device_id": "B2", "ts": 1791014400, "temperature": 28.9, "humidity": 42, "status": "OK"}
+{"device_id": "A1", "ts": 1790908200, "temperature": 25.7, "humidity": 35, "status": " OK "}
+{"device_id": "B2", "ts": 1790870400, "temperature": 26.2, "humidity": 66, "status": " OK "}
+{"device_id": "A1", "ts": 1790865000, "temperature": 20.3, "humidity": 63, "status": "OK"}
+{"device_id": "B1", "ts": 1790971200, "temperature": 19.9, "humidity": 42, "status": "OK"}
+{"device_id": "A1", "ts": 1791030600, "temperature": 21.6, "humidity": 62, "status": "Ok"}
+{"device_id": "A1", "ts": 1790983800, "temperature": 21.5, "humidity": 47, "status": "OK"}
+{"device_id": "A2", "ts": 1790839800, "temperature": 32.9, "humidity": 51, "status": "Warn"}
+{"device_id": "A1", "ts": 1790834400, "temperature": 22.7, "humidity": 43, "status": " OK "}
+{"device_id": "A2", "ts": 1790956800, "temperature": 26.9, "humidity": 48, "status": "OK"}
+{"device_id": "a1", "ts": 1790868600, "temperature": 20.7, "humidity": 33, "status": "ok"}
+{"device_id": "A1", "ts": 1790852400, "temperature": 21.6, "humidity": 68, "status": "OK"}
+{"device_id": "A1", "ts": 1790812800, "temperature": 22.0, "humidity": 57, "status": "Ok"}
+{"device_id": "B2", "ts": 1790818200, "temperature": 28.3, "humidity": 47, "status": "Ok"}
+{"device_id": "A1", "ts": 1791041400, "temperature": 20.1, "humidity": 37, "status": " OK "}
+{"device_id": "B2", "ts": 1790901000, "temperature": 26.2, "humidity": 67, "status": " OK "}
+{"device_id": "A2", "ts": 1791142200, "temperature": 27.8, "humidity": 54, "status": "ok"}
+{"device_id": "A2", "ts": 1790944200, "temperature": 28.0, "humidity": 66, "status": "ok"}
+{"device_id": "B2", "ts": 1790951400, "temperature": 25.0, "humidity": 44, "status": "Ok"}
+{"device_id": "B2", "ts": 1790931600, "temperature": 28.4, "humidity": 39, "status": "ok"}
+{"device_id": "A2", "ts": 1791000000, "temperature": 30.8, "humidity": 63, "status": "Warn"}
+{"device_id": "B1", "ts": 1790933400, "temperature": 23.7, "humidity": 50, "status": "ok"}
+{"device_id": "A2", "ts": 1791014400, "temperature": "32.4", "humidity": 36, "status": "warn"}
+{"device_id": "A1", "ts": 1791135000, "temperature": 19.6, "humidity": 42, "status": "ok"}
+{"device_id": "A2", "ts": 1790983800, "temperature": 30.9, "humidity": 33, "status": "warn"}
+{"device_id": "b1", "ts": 1790877600, "temperature": 17.9, "humidity": 66, "status": "ok"}
+{"device_id": "A2", "ts": 1791061200, "temperature": 26.3, "humidity": 69, "status": "OK"}
+{"device_id": "A1", "ts": 1790863200, "temperature": 20.6, "humidity": 67, "status": "ok"}
+{"device_id": "A1", "ts": 1790821800, "temperature": 23.2, "humidity": 62, "status": "OK"}
+{"device_id": "A1", "ts": 1791055800, "temperature": "17.7", "humidity": 54, "status": "OK"}
+{"device_id": "B2", "ts": 1791003600, "temperature": 29.0, "humidity": 54, "status": " OK "}
+{"device_id": "A2", "ts": 1790836200, "temperature": 32.2, "humidity": 46, "status": " WARN "}
+{"device_id": "A1", "ts": 1791061200, "temperature": 22.1, "humidity": 66, "status": "ok"}
+{"device_id": "B2", "ts": 1791019800, "temperature": 26.7, "humidity": 53, "status": "Ok"}
+{"device_id": "A2", "ts": 1791079200, "temperature": 33.2, "humidity": 49, "status": "Warn"}
+{"device_id": "B1", "ts": 1790924400, "temperature": 24.0, "humidity": 62, "status": "ok"}
+{"device_id": "A1", "ts": 1790946000, "temperature": 22.1, "humidity": 69, "status": "OK"}
+{"device_id": "B1", "ts": 1791106200, "temperature": 20.1, "humidity": 39, "status": "ok"}
+{"device_id": "B2", "ts": 1791079200, "temperature": 26.6, "humidity": 57, "status": "ok"}
+{"device_id": "B1", "ts": 1791052200, "temperature": 17.2, "humidity": 49, "status": "ok"}
+{"device_id": "A2", "ts": 1790881200, "temperature": 28.9, "humidity": 41, "status": "ok"}
+{"device_id": "B1", "ts": 1791037800, "temperature": 18.1, "humidity": 46, "status": "Ok"}
+{"device_id": "A2", "ts": 1791118800, "temperature": 27.6, "humidity": 32, "status": "ok"}
+{"device_id": "A1", "ts": 1791036000, "temperature": 20.1, "status": "OK"}
+{"device_id": "B1", "ts": 1790859600, "temperature": 16.5, "humidity": 39, "status": "ok"}
+{"device_id": "A1", "ts": 1790825400, "temperature": 24.8, "humidity": 42, "status": "OK"}
+{"device_id": "B1", "ts": 1790982000, "temperature": 19.9, "humidity": 54, "status": " OK "}
+{"device_id": "B2", "ts": 1790812800, "temperature": 25.0, "humidity": 51, "status": " OK "}
+{"device_id": "B1", "ts": 1791108000, "temperature": 21.3, "humidity": 47, "status": " OK "}
+{"device_id": "B2", "ts": 1791030600, "temperature": 27.7, "humidity": 47, "status": "ok"}
+{"device_id": "B2", "ts": 1791036000, "temperature": 25.2, "humidity": 38, "status": "ok"}
+{"device_id": "B2", "ts": 1790920800, "temperature": 29.4, "humidity": 51, "status": "Ok"}
+{"device_id": "b2", "ts": 1791135000, "temperature": 22.9, "humidity": 50, "status": "ok"}
+{"device_id": "B2", "ts": 1791001800, "temperature": 28.8, "humidity": 45, "status": "OK"}
+{"device_id": "A2", "ts": 1791009000, "temperature": 33.4, "humidity": 62, "status": "warn"}
+{"device_id": "A1", "ts": 1791090000, "temperature": null, "humidity": 42, "status": "Ok"}
+{"device_id": "A2", "ts": 1791003600, "temperature": 31.7, "humidity": 46, "status": "warn"}
+{"device_id": "A2", "ts": 1790847000, "temperature": 31.6, "humidity": 66, "status": " WARN "}
+{"device_id": "A1", "ts": 1791018000, "temperature": 24.1, "humidity": 46, "status": " OK "}
+{"device_id": "A2", "ts": 1790958600, "temperature": 27.5, "humidity": 58, "status": "ok"}
+{"device_id": "B2", "ts": 1791140400, "temperature": 24.7, "humidity": 46, "status": " OK "}
+{"device_id": "A2", "ts": 1790947800, "temperature": 28.6, "humidity": 67, "status": "OK"}
+{"device_id": "B2", "ts": 1790942400, "temperature": 28.0, "humidity": 52, "status": " OK "}
+{"device_id": "A1", "ts": 1791091800, "temperature": 25.2, "humidity": 64, "status": " OK "}
+{"device_id": "A1", "ts": 1791138600, "temperature": 17.5, "humidity": 37, "status": "ok"}
+{"device_id": "B2", "ts": 1790967600, "temperature": 23.1, "humidity": 32, "status": " OK "}
+{"device_id": "B1", "ts": 1791043200, "temperature": 17.3, "humidity": 47, "status": " OK "}
+{"device_id": "A1", "ts": 1790861400, "temperature": 21.0, "humidity": 40, "status": " OK "}
+{"device_id": "B2", "ts": 1791097200, "temperature": 28.0, "humidity": 38, "status": "OK"}
+{"device_id": "B2", "ts": 1790859600, "temperature": 25.2, "humidity": 45, "status": "ok"}
+{"device_id": "A2", "ts": 1791068400, "temperature": 30.9, "humidity": 62, "status": "WARN"}
+{"device_id": "B2", "ts": 1791151200, "temperature": "21.8", "humidity": 47, "status": "Ok"}
+{"device_id": "B2", "ts": 1791007200, "temperature": 28.7, "humidity": 30, "status": "OK"}
+{"device_id": "A2", "ts": 1790917200, "temperature": 33.7, "humidity": 59, "status": "Warn"}
+{"device_id": "B1", "ts": 1791133200, "temperature": 18.0, "humidity": 52, "status": "Ok"}
+{"device_id": "A1", "ts": 1790856000, "temperature": "21.0", "humidity": 49, "status": "OK"}
+{"device_id": "B1", "ts": 1790946000, "temperature": 19.1, "humidity": 30, "status": "ok"}
+{"device_id": "B1", "ts": 1791099000, "temperature": 23.5, "humidity": 35, "status": "ok"}
+{"device_id": "A2", "ts": 1790938800, "temperature": 30.2, "humidity": 43, "status": "WARN"}
+{"device_id": "B1", "ts": 1791113400, "temperature": 20.5, "status": "OK"}
+{"device_id": "A2", "ts": 1790865000, "temperature": 28.2, "humidity": 47, "status": "OK"}
+{"device_id": "B1", "ts": 1791045000, "temperature": 17.9, "humidity": 35, "status": "OK"}
+{"device_id": "B2", "ts": 1790877600, "temperature": 24.9, "humidity": 62, "status": "Ok"}
+{"device_id": "A1", "ts": 1791079200, "temperature": 21.7, "humidity": 45, "status": "OK"}
+{"device_id": "B2", "ts": 1791145800, "temperature": 23.8, "humidity": 47, "status": "ok"}
+{"device_id": "A1", "ts": 1791016200, "temperature": 25.3, "humidity": 68, "status": "OK"}
+{"device_id": "A1", "ts": 1790874000, "temperature": null, "humidity": 34, "status": "Ok"}
+{"device_id": "A1", "ts": 1790814600, "temperature": 22.1, "humidity": 65, "status": "ok"}
+{"device_id": "A2", "ts": 1791043200, "temperature": 26.5, "humidity": 39, "status": " OK "}
+{"device_id": "A2", "ts": 1791037800, "temperature": 28.6, "humidity": 57, "status": " OK "}
+{"device_id": "A2", "ts": 1790933400, "temperature": 30.4, "humidity": 60, "status": "WARN"}
+{"device_id": "A2", "ts": 1791012600, "temperature": 33.5, "humidity": 46, "status": "WARN"}
+{"device_id": "B1", "ts": 1791082800, "temperature": 21.9, "humidity": 38, "status": "Ok"}
+{"device_id": "A1", "ts": 1791136800, "temperature": 18.2, "humidity": 64, "status": "Ok"}
+{"device_id": "A2", "ts": 1790890200, "temperature": 29.9, "humidity": 50, "status": "ok"}
+{"device_id": "B2", "ts": 1790829000, "temperature": 28.2, "humidity": 42, "status": "OK"}
+{"device_id": "A1", "ts": 1790962200, "temperature": 17.7, "humidity": 59, "status": "Ok"}
+{"device_id": "A2", "ts": 1791075600, "temperature": 30.4, "humidity": 50, "status": "WARN"}
+{"device_id": "B2", "ts": 1790964000, "temperature": 21.9, "humidity": 47, "status": " OK "}
+{"device_id": "B2", "ts": 1790971200, "temperature": 24.6, "humidity": 31, "status": "Ok"}
+{"device_id": "B2", "ts": 1791115200, "temperature": 26.3, "humidity": 59, "status": "Ok"}
+{"device_id": "B1", "ts": 1790812800, "temperature": "20.3", "humidity": 35, "status": " OK "}
+{"device_id": "A2", "ts": 1790955000, "temperature": 28.1, "status": "OK"}
+{"device_id": "B2", "ts": 1791090000, "temperature": 29.1, "humidity": 62, "status": " OK "}
+{"device_id": "B1", "ts": 1790847000, "temperature": 22.3, "humidity": 41, "status": "ok"}
+{"device_id": "B1", "ts": 1791129600, "temperature": 16.2, "humidity": 60, "status": "Ok"}
+{"device_id": "A1", "ts": 1791005400, "temperature": 24.2, "status": "ok"}
+{"device_id": "B1", "ts": 1790955000, "temperature": 19.0, "humidity": 42, "status": " OK "}
+{"device_id": "A2", "ts": 1791129600, "temperature": 26.2, "humidity": 38, "status": "Ok"}
+{"device_id": "A1", "ts": 1790901000, "temperature": 22.3, "humidity": 56, "status": "OK"}
+{"device_id": "A1", "ts": 1791023400, "temperature": 23.0, "humidity": 46, "status": "Ok"}
+{"device_id": "A2", "ts": 1790953200, "temperature": 26.9, "humidity": 47, "status": " OK "}
+{"device_id": "A1", "ts": 1791122400, "temperature": 19.1, "humidity": 65, "status": "Ok"}
+{"device_id": "B1", "ts": 1790814600, "temperature": 21.5, "humidity": 34, "status": "ok"}
+{"device_id": "B2", "ts": 1791095400, "temperature": "29.0", "humidity": 34, "status": "Ok"}
+{"device_id": "A2", "ts": 1790978400, "temperature": 28.7, "humidity": 32, "status": "Ok"}
+{"device_id": "B2", "ts": 1790965800, "temperature": 21.1, "humidity": 38, "status": " OK "}
+{"device_id": "B1", "ts": 1790865000, "temperature": 18.2, "humidity": 58, "status": "Ok"}
+{"device_id": "A1", "ts": 1791147600, "temperature": 20.8, "humidity": 64, "status": " OK "}
+{"device_id": "A2", "ts": 1790832600, "temperature": 33.6, "humidity": 58, "status": "WARN"}
+{"device_id": "A2", "ts": 1790946000, "temperature": 27.5, "humidity": 63, "status": " OK "}
+{"device_id": "B2", "ts": 1791144000, "temperature": 22.8, "humidity": 37, "status": "OK"}
+{"device_id": "A2", "ts": 1791054000, "temperature": 27.3, "humidity": 42, "status": "OK"}
+{"device_id": "A2", "ts": 1790904600, "temperature": 31.0, "humidity": 51, "status": "warn"}
+{"device_id": "B1", "ts": 1791054000, "temperature": 19.0, "humidity": 37, "status": " OK "}
+{"device_id": "A2", "ts": 1790951400, "temperature": 26.1, "humidity": 33, "status": "Ok"}
+{"device_id": "A2", "ts": 1790850600, "temperature": 29.2, "status": "OK"}
+{"device_id": "B1", "ts": 1791005400, "temperature": 20.8, "humidity": 60, "status": "Ok"}
+{"device_id": "B1", "ts": 1791046800, "temperature": 18.0, "humidity": 61, "status": " OK "}
+{"device_id": "A2", "ts": 1790935200, "temperature": 32.8, "humidity": 58, "status": " WARN "}
+{"device_id": "A1", "ts": 1791077400, "temperature": 22.1, "humidity": 65, "status": "OK"}
+{"device_id": "B1", "ts": 1790962200, "temperature": 15.1, "humidity": 37, "status": "OK"}
+{"device_id": "A2", "ts": 1790973000, "temperature": 30.7, "humidity": 32, "status": " WARN "}
+{"device_id": "B2", "ts": 1790892000, "temperature": "21.9", "humidity": 58, "status": "OK"}
+{"device_id": "A1", "ts": 1791104400, "temperature": 23.6, "humidity": 53, "status": "Ok"}
+{"device_id": "A2", "ts": 1790931600, "temperature": 30.7, "humidity": 69, "status": "warn"}
+{"device_id": "a2", "ts": 1791113400, "temperature": 30.7, "humidity": 54, "status": "WARN"}
+{"device_id": "B1", "ts": 1791147600, "temperature": 15.7, "humidity": 41, "status": "ok"}
+{"device_id": "A2", "ts": 1790874000, "temperature": 27.5, "humidity": 34, "status": "ok"}
+{"device_id": "A1", "ts": 1791117000, "temperature": 20.8, "humidity": 39, "status": "ok"}
+{"device_id": "A2", "ts": 1790996400, "temperature": 30.6, "humidity": 41, "status": " WARN "}
+{"device_id": "B1", "ts": 1791027000, "temperature": 22.0, "humidity": 44, "status": "OK"}
+{"device_id": "A1", "ts": 1791054000, "temperature": 18.6, "humidity": 38, "status": "ok"}
+{"device_id": "B2", "ts": 1791147600, "temperature": 23.0, "humidity": 45, "status": " OK "}
+{"device_id": "A1", "ts": 1791014400, "temperature": 23.8, "humidity": 35, "status": "ok"}
+{"device_id": "A1", "ts": 1790933400, "temperature": 23.5, "humidity": 68, "status": "Ok"}
+{"device_id": "A1", "ts": 1790859600, "temperature": 20.5, "humidity": 51, "status": "Ok"}
+{"device_id": "A1", "ts": 1791063000, "temperature": 18.8, "humidity": 64, "status": "OK"}
+{"device_id": "B1", "ts": 1790816400, "temperature": 20.6, "humidity": 64, "status": "Ok"}
+{"device_id": "B2", "ts": 1790827200, "temperature": 29.0, "humidity": 64, "status": "OK"}
+{"device_id": "A1", "ts": 1790911800, "temperature": 24.8, "humidity": 52, "status": "OK"}
+{"device_id": "A1", "ts": 1790958600, "temperature": 18.5, "humidity": 55, "status": "OK"}
+{"device_id": "B1", "ts": 1791063000, "temperature": 19.0, "humidity": 67, "status": " OK "}
+{"device_id": "A2", "ts": 1791045000, "temperature": 26.1, "humidity": 47, "status": "ok"}
+{"device_id": "A1", "ts": 1790964000, "temperature": 19.4, "humidity": 66, "status": "ok"}
+{"device_id": "B2", "ts": 1790994600, "temperature": 28.3, "humidity": 48, "status": "OK"}
+{"device_id": "B2", "ts": 1790823600, "temperature": 29.0, "humidity": 56, "status": "OK"}
+{"device_id": "Z9", "ts": 1790816400, "temperature": null, "humidity": 32, "status": "ok"}
+{"device_id": "B1", "ts": 1791061200, "temperature": 17.1, "humidity": 31, "status": " OK "}
+{"device_id": "B2", "ts": 1790974800, "temperature": 23.9, "humidity": 43, "status": "ok"}
+{"device_id": "B1", "ts": 1790935200, "temperature": 21.4, "humidity": 60, "status": " OK "}
+{"device_id": "B2", "ts": 1791055800, "temperature": 22.7, "humidity": 41, "status": "OK"}
+{"device_id": "A2", "ts": 1791140400, "temperature": 27.8, "humidity": 47, "status": "OK"}
+{"device_id": "B1", "ts": 1790913600, "temperature": "22.8", "humidity": 44, "status": "Ok"}
+{"device_id": "B2", "ts": 1790906400, "temperature": 26.7, "humidity": 34, "status": "Ok"}
+{"device_id": "A1", "ts": 1791048600, "temperature": 19.7, "humidity": 30, "status": " OK "}
+{"device_id": "B2", "ts": 1790960400, "temperature": 22.8, "humidity": 55, "status": "Ok"}
+{"device_id": "A1", "ts": 1791009000, "temperature": "24.1", "humidity": 34, "status": "ok"}
+{"device_id": "B2", "ts": 1790913600, "temperature": 29.7, "humidity": 49, "status": "ok"}
+{"device_id": "B2", "ts": 1791054000, "temperature": 21.8, "humidity": 67, "status": "ok"}
+{"device_id": "B2", "ts": 1790861400, "temperature": 23.7, "humidity": 57, "status": "Ok"}
+{"device_id": "B1", "ts": 1790965800, "temperature": 20.1, "humidity": 36, "status": "ok"}
+{"device_id": "B2", "ts": 1790866800, "temperature": 24.1, "humidity": 38, "status": "ok"}
+{"device_id": "A2", "ts": 1790899200, "temperature": 30.3, "status": "warn"}
+{"device_id": "B1", "ts": 1790978400, "temperature": "17.9", "humidity": 35, "status": "Ok"}
+{"device_id": "B1", "ts": 1791023400, "temperature": 21.1, "humidity": 38, "status": " OK "}
+{"device_id": "A1", "ts": 1790818200, "temperature": "22.0", "humidity": 42, "status": "OK"}
+{"device_id": "A1", "ts": 1790854200, "temperature": 23.7, "humidity": 57, "status": "ok"}
+{"device_id": "A1", "ts": 1791142200, "temperature": 17.6, "humidity": 45, "status": "ok"}
+{"device_id": "B1", "ts": 1790928000, "temperature": 24.1, "humidity": 47, "status": "OK"}
+{"device_id": "B1", "ts": 1791048600, "temperature": 16.8, "humidity": 67, "status": "Ok"}
+{"device_id": "b1", "ts": 1790944200, "temperature": 18.7, "status": "Ok"}
+{"device_id": "A2", "ts": 1791144000, "temperature": 27.7, "humidity": 48, "status": "Ok"}
+{"device_id": "B1", "ts": 1790838000, "temperature": 24.1, "humidity": 51, "status": " OK "}
+{"device_id": "B1", "ts": 1790904600, "temperature": 21.7, "humidity": 41, "status": "Ok"}
+{"device_id": "A2", "ts": 1790926200, "temperature": 31.8, "humidity": 32, "status": " WARN "}
+{"device_id": "B2", "ts": 1790848800, "temperature": 27.4, "humidity": 39, "status": " OK "}
+{"device_id": "A2", "ts": 1791034200, "temperature": 27.5, "humidity": 53, "status": "ok"}
+{"device_id": "b1", "ts": 1790895600, "temperature": 20.5, "humidity": 39, "status": "Ok"}
+{"device_id": "A2", "ts": 1791030600, "temperature": 29.7, "humidity": 31, "status": " OK "}
+{"device_id": "B2", "ts": 1791063000, "temperature": 23.7, "humidity": 67, "status": "OK"}
+{"device_id": "B1", "ts": 1790960400, "temperature": 16.8, "humidity": 47, "status": "ok"}
+{"device_id": "B2", "ts": 1791102600, "temperature": 29.3, "humidity": 51, "status": "ok"}
+{"device_id": "B1", "ts": 1790839800, "temperature": 22.7, "humidity": 33, "status": " OK "}
+{"device_id": "A1", "ts": 1791028800, "temperature": 21.4, "humidity": 57, "status": " OK "}
+{"device_id": "a2", "ts": 1791063000, "temperature": 29.2, "humidity": 46, "status": " OK "}
+{"device_id": "B2", "ts": 1791104400, "temperature": "28.5", "humidity": 53, "status": "Ok"}
+{"device_id": "B1", "ts": 1791156600, "temperature": 18.2, "humidity": 33, "status": "OK"}
+{"device_id": "B2", "ts": 1790915400, "temperature": 28.3, "humidity": 69, "status": "ok"}
+{"device_id": "a2", "ts": 1790821800, "temperature": 33.0, "humidity": 69, "status": "Warn"}
+{"device_id": "A2", "ts": 1790920800, "temperature": 32.6, "humidity": 61, "status": "warn"}
+{"device_id": "A1", "ts": 1791088200, "temperature": 24.0, "humidity": 62, "status": "Ok"}
+{"device_id": "a1", "ts": 1791039600, "temperature": 21.3, "humidity": 67, "status": " OK "}
+{"device_id": "A2", "ts": 1791127800, "temperature": 27.2, "humidity": 36, "status": "OK"}
+{"device_id": "B2", "ts": 1790985600, "temperature": 27.2, "humidity": 40, "status": "OK"}
+{"device_id": "B2", "ts": 1791010800, "temperature": 28.0, "humidity": 46, "status": "ok"}
+{"device_id": "B1", "ts": 1791075600, "temperature": 20.3, "humidity": 66, "status": "Ok"}
+{"device_id": "B1", "ts": 1790857800, "temperature": 18.6, "humidity": 61, "status": "OK"}
+{"device_id": "A1", "ts": 1790888400, "temperature": 20.0, "humidity": 52, "status": " OK "}
+{"device_id": "A2", "ts": 1790868600, "temperature": 30.0, "humidity": 66, "status": " WARN "}
+{"device_id": "B2", "ts": 1790816400, "temperature": 28.2, "humidity": 69, "status": "OK"}
+{"device_id": "A1", "ts": 1791149400, "temperature": null, "humidity": 56, "status": "ok"}
+{"device_id": "b1", "ts": 1790992800, "temperature": 21.9, "humidity": 67, "status": "Ok"}
+{"device_id": "a2", "ts": 1790827200, "temperature": 32.9, "humidity": 37, "status": "Warn"}
+{"device_id": "B2", "ts": 1790908200, "temperature": 29.3, "humidity": 38, "status": " OK "}
+{"device_id": "B2", "ts": 1791018000, "temperature": 26.8, "status": "ok"}
+{"device_id": "B2", "ts": 1790935200, "temperature": 28.2, "humidity": 56, "status": " OK "}
+{"device_id": "A2", "ts": 1790875800, "temperature": 25.7, "humidity": 42, "status": "ok"}
+{"device_id": "A1", "ts": 1791108000, "temperature": 23.6, "status": "ok"}
+{"device_id": "B2", "ts": 1791086400, "temperature": 27.3, "humidity": 59, "status": " OK "}
+{"device_id": "A1", "ts": 1790971200, "temperature": 20.3, "humidity": 35, "status": "ok"}
+{"device_id": "B1", "ts": 1790836200, "temperature": 23.1, "humidity": 64, "status": "OK"}
+{"device_id": "B2", "ts": 1790895600, "temperature": 25.4, "humidity": 34, "status": "ok"}
+{"device_id": "A1", "ts": 1790910000, "temperature": 23.6, "humidity": 39, "status": "Ok"}
+{"device_id": "A2", "ts": 1791046800, "temperature": 25.6, "humidity": 67, "status": "Ok"}
+{"device_id": "B1", "ts": 1791010800, "temperature": 23.0, "humidity": 49, "status": "ok"}
+{"device_id": "A1", "ts": 1790892000, "temperature": "20.3", "humidity": 63, "status": "Ok"}
+{"device_id": "A1", "ts": 1791045000, "temperature": 20.4, "humidity": 53, "status": " OK "}
+{"device_id": "A2", "ts": 1791021600, "temperature": 32.7, "humidity": 36, "status": "warn"}
+{"device_id": "A2", "ts": 1790830800, "temperature": null, "humidity": 42, "status": "warn"}
+{"device_id": "B1", "ts": 1791025200, "temperature": 23.0, "humidity": 39, "status": "Ok"}
+{"device_id": "B1", "ts": 1790827200, "temperature": 24.7, "humidity": 60, "status": "OK"}
+{"device_id": "a1", "ts": 1791012600, "temperature": 24.5, "humidity": 53, "status": "ok"}
+{"device_id": "A1", "ts": 1790935200, "temperature": 22.4, "humidity": 33, "status": " OK "}
+{"device_id": "A1", "ts": 1791154800, "temperature": 19.9, "humidity": 41, "status": "Ok"}
+{"device_id": "B1", "ts": 1791081000, "temperature": 23.7, "humidity": 65, "status": " OK "}
+{"device_id": "A1", "ts": 1791109800, "temperature": 24.5, "humidity": 56, "status": "OK"}
+{"device_id": "B2", "ts": 1791045000, "temperature": 22.8, "humidity": 46, "status": "Ok"}
+{"device_id": "A2", "ts": 1791108000, "temperature": 31.3, "humidity": 45, "status": "WARN"}
+{"device_id": "A1", "ts": 1791081000, "temperature": 22.7, "humidity": 55, "status": "ok"}
+{"device_id": "A1", "ts": 1791127800, "temperature": 19.6, "humidity": 35, "status": "Ok"}
+{"device_id": "B1", "ts": 1791050400, "temperature": 18.1, "humidity": 62, "status": "OK"}
+{"device_id": "A2", "ts": 1791149400, "temperature": 28.9, "humidity": 65, "status": "ok"}
+{"device_id": "B2", "ts": 1790922600, "temperature": 28.3, "humidity": 40, "status": "OK"}
+{"device_id": "B2", "ts": 1790830800, "temperature": 26.8, "humidity": 69, "status": "Ok"}
+{"device_id": "A1", "ts": 1790976600, "temperature": 20.1, "humidity": 69, "status": "ok"}
+{"device_id": "B1", "ts": 1790852400, "temperature": 20.7, "humidity": 33, "status": "ok"}
+{"device_id": "B2", "ts": 1790956800, "temperature": 24.2, "humidity": 32, "status": "ok"}
+{"device_id": "A1", "ts": 1791073800, "temperature": 22.4, "humidity": 61, "status": "OK"}
+{"device_id": "B1", "ts": 1791136800, "temperature": 17.0, "humidity": 61, "status": "Ok"}
+{"device_id": "B2", "ts": 1791037800, "temperature": 25.2, "humidity": 60, "status": "OK"}
+{"device_id": "A1", "ts": 1790839800, "temperature": 25.1, "humidity": 54, "status": "OK"}
+{"device_id": "A1", "ts": 1791052200, "temperature": 20.1, "humidity": 51, "status": "OK"}
+{"device_id": "A1", "ts": 1791111600, "temperature": 22.8, "humidity": 42, "status": "Ok"}
+{"device_id": "B1", "ts": 1790969400, "temperature": null, "status": "ok"}
+{"device_id": "A2", "ts": 1791138600, "temperature": 26.5, "humidity": 40, "status": "ok"}
+{"device_id": "B2", "ts": 1790839800, "temperature": 29.8, "humidity": 43, "status": "Ok"}
+{"device_id": "B1", "ts": 1790868600, "temperature": 17.5, "humidity": 34, "status": "ok"}
+{"device_id": "A1", "ts": 1790978400, "temperature": 20.2, "humidity": 65, "status": " OK "}
+{"device_id": "A1", "ts": 1791021600, "temperature": 24.0, "humidity": 57, "status": "Ok"}
+{"device_id": "B1", "ts": 1790901000, "temperature": 18.6, "humidity": 48, "status": "ok"}
+{"device_id": "A1", "ts": 1791100800, "temperature": 24.5, "humidity": 36, "status": " OK "}
+{"device_id": "B1", "ts": 1790920800, "temperature": 22.6, "humidity": 45, "status": "Ok"}
+{"device_id": "B2", "ts": 1791131400, "temperature": 23.8, "humidity": 44, "status": " OK "}
+{"device_id": "B2", "ts": 1791081000, "temperature": 27.7, "humidity": 52, "status": " OK "}
+{"device_id": "b1", "ts": 1790866800, "temperature": 18.8, "humidity": 50, "status": " OK "}
+{"device_id": "B1", "ts": 1790841600, "temperature": 23.5, "humidity": 40, "status": " OK "}
+{"device_id": "A2", "ts": 1790829000, "temperature": 32.5, "humidity": 37, "status": "WARN"}
+{"device_id": "B2", "ts": 1790962200, "temperature": 23.5, "humidity": 62, "status": "ok"}
+{"device_id": "a2", "ts": 1791136800, "temperature": 27.2, "humidity": 30, "status": "OK"}
+{"device_id": "A1", "ts": 1790845200, "temperature": 23.5, "humidity": 62, "status": "OK"}
+{"device_id": "B1", "ts": 1790888400, "temperature": 17.8, "status": "Ok"}
+{"device_id": "B1", "ts": 1790884800, "temperature": 17.3, "humidity": 67, "status": "ok"}
+{"device_id": "a2", "ts": 1791124200, "temperature": 28.4, "humidity": 55, "status": "OK"}
+{"device_id": "B2", "ts": 1790820000, "temperature": 26.8, "status": " OK "}
+{"device_id": "B2", "ts": 1791084600, "temperature": 25.5, "humidity": 68, "status": "Ok"}
+{"device_id": "A1", "ts": 1790906400, "temperature": 23.1, "humidity": 41, "status": "Ok"}
+{"device_id": "B1", "ts": 1790890200, "temperature": 17.0, "humidity": 58, "status": " OK "}
+{"device_id": "A2", "ts": 1791032400, "temperature": 30.6, "humidity": 41, "status": "warn"}
+{"device_id": "B2", "ts": 1791005400, "temperature": 26.8, "humidity": 56, "status": "OK"}
+{"device_id": "A2", "ts": 1790989200, "temperature": 30.2, "humidity": 34, "status": " WARN "}
+{"device_id": "B1", "ts": 1790875800, "temperature": 17.4, "humidity": 40, "status": "Ok"}
+{"device_id": "A2", "ts": 1790965800, "temperature": 28.6, "humidity": 63, "status": "OK"}
+{"device_id": "B1", "ts": 1790854200, "temperature": 18.4, "humidity": 61, "status": " OK "}
+{"device_id": "A1", "ts": 1791113400, "temperature": 21.6, "humidity": 44, "status": "Ok"}
+{"device_id": "B2", "ts": 1790978400, "temperature": 25.8, "humidity": 59, "status": " OK "}
+{"device_id": "A1", "ts": 1790980200, "temperature": 19.7, "humidity": 65, "status": " OK "}
+{"device_id": "B1", "ts": 1791104400, "temperature": 22.6, "humidity": 50, "status": "Ok"}
+{"device_id": "B2", "ts": 1790953200, "temperature": 23.8, "humidity": 46, "status": "Ok"}
+{"device_id": "A1", "ts": 1791097200, "temperature": 27.3, "humidity": 36, "status": " OK "}
+{"device_id": "B1", "ts": 1791135000, "temperature": 16.4, "humidity": 68, "status": "OK"}
+{"device_id": "B2", "ts": 1790998200, "temperature": 27.6, "humidity": 58, "status": "ok"}
+{"device_id": "B1", "ts": 1790848800, "temperature": 20.3, "humidity": 45, "status": "Ok"}
+{"device_id": "A1", "ts": 1790998200, "temperature": 26.1, "humidity": 55, "status": " OK "}
+{"device_id": "B1", "ts": 1790872200, "temperature": null, "humidity": 52, "status": "OK"}
+{"device_id": "A1", "ts": 1790928000, "temperature": "25.3", "humidity": 58, "status": "OK"}
+{"device_id": "B1", "ts": 1791012600, "temperature": 23.2, "humidity": 64, "status": "ok"}
+{"device_id": "B1", "ts": 1791131400, "temperature": 16.2, "humidity": 36, "status": " OK "}
+{"device_id": "B1", "ts": 1791034200, "temperature": 18.5, "humidity": 40, "status": "Ok"}
+{"device_id": "A1", "ts": 1790870400, "temperature": 19.5, "humidity": 54, "status": "OK"}
+{"device_id": "B2", "ts": 1791099000, "temperature": 29.0, "humidity": 35, "status": "ok"}
+{"device_id": "A1", "ts": 1790955000, "temperature": 20.8, "humidity": 46, "status": " OK "}
+{"device_id": "A2", "ts": 1791041400, "temperature": 28.3, "humidity": 37, "status": "Ok"}
+{"device_id": "B2", "ts": 1790919000, "temperature": 28.2, "status": "ok"}
+{"device_id": "A1", "ts": 1791153000, "temperature": 21.0, "humidity": 50, "status": " OK "}
+{"device_id": "A2", "ts": 1791151200, "temperature": 29.0, "humidity": 31, "status": "Ok"}
+{"device_id": "B2", "ts": 1791025200, "temperature": 25.1, "humidity": 48, "status": "OK"}
+{"device_id": "B1", "ts": 1790874000, "temperature": 18.5, "humidity": 37, "status": " OK "}
+{"device_id": "A2", "ts": 1791070200, "temperature": null, "humidity": 44, "status": "WARN"}
+{"device_id": "A1", "ts": 1790832600, "temperature": 24.4, "humidity": 69, "status": " OK "}
+{"device_id": "B2", "ts": 1791108000, "temperature": 30.3, "humidity": 31, "status": "warn"}
+{"device_id": "B2", "ts": 1790976600, "temperature": 24.9, "humidity": 35, "status": "OK"}
+{"device_id": "B2", "ts": 1790879400, "temperature": 24.3, "humidity": 37, "status": "Ok"}
+{"device_id": "A1", "ts": 1790883000, "temperature": 21.0, "humidity": 69, "status": " OK "}
+{"device_id": "A2", "ts": 1790937000, "temperature": 32.4, "humidity": 57, "status": "warn"}
+{"device_id": "A2", "ts": 1790841600, "temperature": 32.2, "humidity": 30, "status": "warn"}
+{"device_id": "A1", "ts": 1790893800, "temperature": 22.2, "humidity": 33, "status": "Ok"}
+{"device_id": "A1", "ts": 1791072000, "temperature": 19.5, "humidity": 47, "status": "ok"}
+{"device_id": "A2", "ts": 1791093600, "temperature": 34.5, "humidity": 33, "status": "alert"}
+{"device_id": "A2", "ts": 1791145800, "temperature": 28.1, "humidity": 62, "status": "OK"}
+{"device_id": "A1", "ts": 1790881200, "temperature": 19.0, "humidity": 53, "status": "ok"}
+{"device_id": "A2", "ts": 1790866800, "temperature": 26.7, "humidity": 48, "status": " OK "}
+{"device_id": "A2", "ts": 1791111600, "temperature": 30.5, "humidity": 53, "status": "WARN"}
+{"device_id": "B2", "ts": 1790917200, "temperature": 29.4, "humidity": 45, "status": "OK"}
+{"device_id": "B2", "ts": 1791082800, "temperature": 26.2, "status": "OK"}
+{"device_id": "B2", "ts": 1790874000, "temperature": null, "humidity": 44, "status": "Ok"}
+{"device_id": "B2", "ts": 1790949600, "temperature": 24.4, "humidity": 67, "status": " OK "}
+{"device_id": "A1", "ts": 1791007200, "temperature": 23.7, "humidity": 53, "status": "OK"}
+{"device_id": "A1", "ts": 1790823600, "temperature": 23.4, "humidity": 62, "status": "Ok"}
+{"device_id": "b2", "ts": 1791000000, "temperature": 28.1, "status": "ok"}
+{"device_id": "A2", "ts": 1790946000, "temperature": 27.5, "humidity": 63, "status": " OK "}
+{"device_id": "B2", "ts": 1790886600, "temperature": 24.5, "humidity": 41, "status": "Ok"}
+{"device_id": "Z9", "ts": 1790820000, "temperature": 27.8, "humidity": 43, "status": "OK"}
+{"device_id": "A1", "ts": 1791140400, "temperature": 18.9, "humidity": 64, "status": "Ok"}
+{"device_id": "B1", "ts": 1791064800, "temperature": null, "humidity": 44, "status": "OK"}
+{"device_id": "a2", "ts": 1791153000, "temperature": 27.0, "humidity": 56, "status": "Ok"}
+{"device_id": "A1", "ts": 1790949600, "temperature": 20.4, "humidity": 53, "status": "Ok"}
+{"device_id": "A2", "ts": 1790823600, "temperature": 33.2, "humidity": 33, "status": " WARN "}
+{"device_id": "B2", "ts": 1790850600, "temperature": 28.0, "humidity": 53, "status": "ok"}
+{"device_id": "B2", "ts": 1790881200, "temperature": 23.0, "humidity": 54, "status": "Ok"}
+{"device_id": "A2", "ts": 1790816400, "temperature": 32.6, "humidity": 32, "status": " WARN "}
+{"device_id": "A1", "ts": 1790904600, "temperature": 22.8, "humidity": 67, "status": " OK "}
+{"device_id": "A1", "ts": 1791032400, "temperature": 20.7, "humidity": 62, "status": "Ok"}
+{"device_id": "A2", "ts": 1790895600, "temperature": 28.6, "humidity": 36, "status": "OK"}
+{"device_id": "A2", "ts": 1791007200, "temperature": 34.8, "status": "ALERT"}
+{"device_id": "A1", "ts": 1790886600, "temperature": "19.1", "humidity": 55, "status": "Ok"}
+{"device_id": "a2", "ts": 1791154800, "temperature": 29.9, "humidity": 67, "status": "ok"}
+{"device_id": "B1", "ts": 1790947800, "temperature": 19.6, "humidity": 36, "status": "OK"}
+{"device_id": "A2", "ts": 1790919000, "temperature": 30.9, "humidity": 50, "status": " WARN "}
+{"device_id": "B1", "ts": 1790996400, "temperature": "21.4", "humidity": 69, "status": " OK "}
+{"device_id": "A1", "ts": 1790820000, "temperature": 23.6, "humidity": 49, "status": "OK"}
+{"device_id": "A1", "ts": 1791000000, "temperature": 24.1, "humidity": 54, "status": "Ok"}
+{"device_id": "A1", "ts": 1790879400, "temperature": 19.8, "humidity": 36, "status": "OK"}
+{"device_id": "B1", "ts": 1790976600, "temperature": "19.0", "humidity": 51, "status": "ok"}
+{"device_id": "B2", "ts": 1790980200, "temperature": 24.6, "humidity": 35, "status": " OK "}
+{"device_id": "A1", "ts": 1790996400, "temperature": 23.4, "humidity": 35, "status": "Ok"}
+{"device_id": "B2", "ts": 1790973000, "temperature": null, "humidity": 50, "status": "OK"}
+{"device_id": "A2", "ts": 1790892000, "temperature": 29.7, "humidity": 52, "status": "ok"}
+{"device_id": "B1", "ts": 1791090000, "temperature": 22.1, "humidity": 59, "status": "OK"}
+{"device_id": "B1", "ts": 1791055800, "temperature": 17.3, "humidity": 57, "status": "Ok"}
+{"device_id": "A2", "ts": 1790919000, "temperature": 30.9, "humidity": 50, "status": " WARN "}
+{"device_id": "A2", "ts": 1790929800, "temperature": "32.2", "humidity": 65, "status": "warn"}
+{"device_id": "B1", "ts": 1790850600, "temperature": 21.8, "humidity": 64, "status": "ok"}
+{"device_id": "A1", "ts": 1790931600, "temperature": null, "humidity": 46, "status": "Ok"}
